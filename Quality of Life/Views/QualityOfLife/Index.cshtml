@@ -1,0 +1,178 @@
+@model PawPalQoL.Models.QualityOfLifeModel
+@{
+    ViewData["Title"] = "Pet Quality of Life Assessment";
+}
+
+<div class="hero-section">
+    <div class="container">
+        <div class="row justify-content-center">
+            <div class="col-lg-8 text-center">
+                <h1 class="hero-title">
+                    <i class="fas fa-heart text-danger me-3"></i>
+                    Pet Quality of Life Assessment
+                </h1>
+                <p class="hero-subtitle">Help us understand your pet's well-being with this comprehensive assessment tool</p>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="container py-5">
+    <div class="row justify-content-center">
+        <div class="col-lg-8">
+            <div class="pawpal-card fade-in-up">
+                <div class="pawpal-card-header text-center">
+                    <h3 class="mb-0">
+                        <i class="fas fa-clipboard-check me-2"></i>
+                        Quality of Life Assessment
+                    </h3>
+                    <p class="mb-0 mt-2 opacity-75">Rate each category based on your pet's current condition</p>
+                </div>
+                
+                <div class="pawpal-card-body">
+                    <form asp-action="Index" method="post" id="qualityForm">
+                        
+                        <!-- Pain Level -->
+                        <div class="form-group">
+                            <label class="form-label">
+                                <i class="fas fa-thermometer-half text-danger me-2"></i>
+                                Pain Management
+                            </label>
+                            <p class="text-muted small mb-3">How well is your pet managing any pain or discomfort?</p>
+                            <div class="range-container">
+                                <input type="range" name="Pain" min="1" max="10" value="5" class="range-input" id="painRange">
+                                <div class="range-labels">
+                                    <span>Severe Pain (1)</span>
+                                    <span>No Pain (10)</span>
+                                </div>
+                                <div class="range-value" id="painValue">5</div>
+                            </div>
+                        </div>
+
+                        <!-- Mobility -->
+                        <div class="form-group">
+                            <label class="form-label">
+                                <i class="fas fa-running text-primary me-2"></i>
+                                Mobility & Activity
+                            </label>
+                            <p class="text-muted small mb-3">How active and mobile is your pet?</p>
+                            <div class="range-container">
+                                <input type="range" name="Mobility" min="1" max="10" value="5" class="range-input" id="mobilityRange">
+                                <div class="range-labels">
+                                    <span>Very Limited (1)</span>
+                                    <span>Fully Active (10)</span>
+                                </div>
+                                <div class="range-value" id="mobilityValue">5</div>
+                            </div>
+                        </div>
+
+                        <!-- Appetite -->
+                        <div class="form-group">
+                            <label class="form-label">
+                                <i class="fas fa-utensils text-success me-2"></i>
+                                Appetite & Eating
+                            </label>
+                            <p class="text-muted small mb-3">How is your pet's appetite and eating behavior?</p>
+                            <div class="range-container">
+                                <input type="range" name="Appetite" min="1" max="10" value="5" class="range-input" id="appetiteRange">
+                                <div class="range-labels">
+                                    <span>No Appetite (1)</span>
+                                    <span>Excellent Appetite (10)</span>
+                                </div>
+                                <div class="range-value" id="appetiteValue">5</div>
+                            </div>
+                        </div>
+
+                        <!-- Happiness -->
+                        <div class="form-group">
+                            <label class="form-label">
+                                <i class="fas fa-smile text-warning me-2"></i>
+                                Happiness & Behavior
+                            </label>
+                            <p class="text-muted small mb-3">How happy and engaged does your pet seem?</p>
+                            <div class="range-container">
+                                <input type="range" name="Happiness" min="1" max="10" value="5" class="range-input" id="happinessRange">
+                                <div class="range-labels">
+                                    <span>Very Withdrawn (1)</span>
+                                    <span>Very Happy (10)</span>
+                                </div>
+                                <div class="range-value" id="happinessValue">5</div>
+                            </div>
+                        </div>
+
+                        <div class="text-center mt-4 pt-3 border-top">
+                            <button type="submit" class="btn btn-pawpal-primary btn-lg px-5">
+                                <i class="fas fa-calculator me-2"></i>
+                                Calculate Quality of Life Score
+                            </button>
+                        </div>
+                    </form>
+                </div>
+            </div>
+
+            <!-- Information Card -->
+            <div class="pawpal-card mt-4 fade-in-up">
+                <div class="pawpal-card-body text-center">
+                    <h5 class="text-primary mb-3">
+                        <i class="fas fa-info-circle me-2"></i>
+                        About This Assessment
+                    </h5>
+                    <p class="text-muted mb-0">
+                        This assessment tool helps evaluate your pet's quality of life across key areas. 
+                        The results can provide valuable insights to discuss with your veterinarian about your pet's care and well-being.
+                    </p>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+@section Scripts {
+    <script>
+        // Interactive range sliders
+        function updateRangeValue(rangeId, valueId) {
+            const range = document.getElementById(rangeId);
+            const valueDisplay = document.getElementById(valueId);
+            
+            range.addEventListener('input', function() {
+                valueDisplay.textContent = this.value;
+                
+                // Update color based on value
+                const value = parseInt(this.value);
+                if (value <= 3) {
+                    valueDisplay.style.color = '#dc3545'; // Red
+                } else if (value <= 6) {
+                    valueDisplay.style.color = '#ffc107'; // Yellow
+                } else {
+                    valueDisplay.style.color = '#28a745'; // Green
+                }
+            });
+        }
+
+        // Initialize range sliders
+        updateRangeValue('painRange', 'painValue');
+        updateRangeValue('mobilityRange', 'mobilityValue');
+        updateRangeValue('appetiteRange', 'appetiteValue');
+        updateRangeValue('happinessRange', 'happinessValue');
+
+        // Form submission animation
+        document.getElementById('qualityForm').addEventListener('submit', function(e) {
+            const submitBtn = e.target.querySelector('button[type="submit"]');
+            submitBtn.innerHTML = '<i class="fas fa-spinner fa-spin me-2"></i>Calculating...';
+            submitBtn.disabled = true;
+        });
+
+        // Add fade-in animation on scroll
+        const observer = new IntersectionObserver((entries) => {
+            entries.forEach((entry) => {
+                if (entry.isIntersecting) {
+                    entry.target.classList.add('fade-in-up');
+                }
+            });
+        });
+
+        document.querySelectorAll('.pawpal-card').forEach((card) => {
+            observer.observe(card);
+        });
+    </script>
+}

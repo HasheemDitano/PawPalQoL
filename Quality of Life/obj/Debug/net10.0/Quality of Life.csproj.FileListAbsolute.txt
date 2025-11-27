@@ -1,0 +1,99 @@
+C:\Users\Hasheem Ditano\source\repos\Quality of Life\Quality of Life\bin\Debug\net10.0\appsettings.Development.json
+C:\Users\Hasheem Ditano\source\repos\Quality of Life\Quality of Life\bin\Debug\net10.0\appsettings.json
+C:\Users\Hasheem Ditano\source\repos\Quality of Life\Quality of Life\bin\Debug\net10.0\Quality of Life.staticwebassets.runtime.json
+C:\Users\Hasheem Ditano\source\repos\Quality of Life\Quality of Life\bin\Debug\net10.0\Quality of Life.staticwebassets.endpoints.json
+C:\Users\Hasheem Ditano\source\repos\Quality of Life\Quality of Life\bin\Debug\net10.0\Quality of Life.exe
+C:\Users\Hasheem Ditano\source\repos\Quality of Life\Quality of Life\bin\Debug\net10.0\Quality of Life.deps.json
+C:\Users\Hasheem Ditano\source\repos\Quality of Life\Quality of Life\bin\Debug\net10.0\Quality of Life.runtimeconfig.json
+C:\Users\Hasheem Ditano\source\repos\Quality of Life\Quality of Life\bin\Debug\net10.0\Quality of Life.dll
+C:\Users\Hasheem Ditano\source\repos\Quality of Life\Quality of Life\bin\Debug\net10.0\Quality of Life.pdb
+C:\Users\Hasheem Ditano\source\repos\Quality of Life\Quality of Life\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\Users\Hasheem Ditano\source\repos\Quality of Life\Quality of Life\obj\Debug\net10.0\Quality of Life.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hasheem Ditano\source\repos\Quality of Life\Quality of Life\obj\Debug\net10.0\Quality of Life.AssemblyInfoInputs.cache
+C:\Users\Hasheem Ditano\source\repos\Quality of Life\Quality of Life\obj\Debug\net10.0\Quality of Life.AssemblyInfo.cs
+C:\Users\Hasheem Ditano\source\repos\Quality of Life\Quality of Life\obj\Debug\net10.0\Quality of Life.csproj.CoreCompileInputs.cache
+C:\Users\Hasheem Ditano\source\repos\Quality of Life\Quality of Life\obj\Debug\net10.0\Quality of Life.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Hasheem Ditano\source\repos\Quality of Life\Quality of Life\obj\Debug\net10.0\Quality of Life.RazorAssemblyInfo.cache
+C:\Users\Hasheem Ditano\source\repos\Quality of Life\Quality of Life\obj\Debug\net10.0\Quality of Life.RazorAssemblyInfo.cs
+C:\Users\Hasheem Ditano\source\repos\Quality of Life\Quality of Life\obj\Debug\net10.0\rjimswa.dswa.cache.json
+C:\Users\Hasheem Ditano\source\repos\Quality of Life\Quality of Life\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+C:\Users\Hasheem Ditano\source\repos\Quality of Life\Quality of Life\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+C:\Users\Hasheem Ditano\source\repos\Quality of Life\Quality of Life\obj\Debug\net10.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Hasheem Ditano\source\repos\Quality of Life\Quality of Life\obj\Debug\net10.0\scopedcss\bundle\Quality of Life.styles.css
+C:\Users\Hasheem Ditano\source\repos\Quality of Life\Quality of Life\obj\Debug\net10.0\scopedcss\projectbundle\Quality of Life.bundle.scp.css
+C:\Users\Hasheem Ditano\source\repos\Quality of Life\Quality of Life\obj\Debug\net10.0\compressed\c00p68e4d2-{0}-61n19gt1b8-61n19gt1b8.gz
+C:\Users\Hasheem Ditano\source\repos\Quality of Life\Quality of Life\obj\Debug\net10.0\compressed\euj23wjz8g-{0}-xtxxf3hu2r-xtxxf3hu2r.gz
+C:\Users\Hasheem Ditano\source\repos\Quality of Life\Quality of Life\obj\Debug\net10.0\compressed\71pym40046-{0}-bqjiyaj88i-bqjiyaj88i.gz
+C:\Users\Hasheem Ditano\source\repos\Quality of Life\Quality of Life\obj\Debug\net10.0\compressed\jro9ajnsaa-{0}-c2jlpeoesf-c2jlpeoesf.gz
+C:\Users\Hasheem Ditano\source\repos\Quality of Life\Quality of Life\obj\Debug\net10.0\compressed\qomgwui7wi-{0}-erw9l3u2r3-erw9l3u2r3.gz
+C:\Users\Hasheem Ditano\source\repos\Quality of Life\Quality of Life\obj\Debug\net10.0\compressed\5qm5d8s3dh-{0}-aexeepp0ev-aexeepp0ev.gz
+C:\Users\Hasheem Ditano\source\repos\Quality of Life\Quality of Life\obj\Debug\net10.0\compressed\yqwq8aq6et-{0}-d7shbmvgxk-d7shbmvgxk.gz
+C:\Users\Hasheem Ditano\source\repos\Quality of Life\Quality of Life\obj\Debug\net10.0\compressed\fcvhlfwk7a-{0}-ausgxo2sd3-ausgxo2sd3.gz
+C:\Users\Hasheem Ditano\source\repos\Quality of Life\Quality of Life\obj\Debug\net10.0\compressed\xvduaa1pw1-{0}-k8d9w2qqmf-k8d9w2qqmf.gz
+C:\Users\Hasheem Ditano\source\repos\Quality of Life\Quality of Life\obj\Debug\net10.0\compressed\z57j621l15-{0}-cosvhxvwiu-cosvhxvwiu.gz
+C:\Users\Hasheem Ditano\source\repos\Quality of Life\Quality of Life\obj\Debug\net10.0\compressed\3mzdt6hth8-{0}-ub07r2b239-ub07r2b239.gz
+C:\Users\Hasheem Ditano\source\repos\Quality of Life\Quality of Life\obj\Debug\net10.0\compressed\v0mhltl3ma-{0}-fvhpjtyr6v-fvhpjtyr6v.gz
+C:\Users\Hasheem Ditano\source\repos\Quality of Life\Quality of Life\obj\Debug\net10.0\compressed\bnbe6ljc9a-{0}-b7pk76d08c-b7pk76d08c.gz
+C:\Users\Hasheem Ditano\source\repos\Quality of Life\Quality of Life\obj\Debug\net10.0\compressed\af6gp5479r-{0}-fsbi9cje9m-fsbi9cje9m.gz
+C:\Users\Hasheem Ditano\source\repos\Quality of Life\Quality of Life\obj\Debug\net10.0\compressed\zoql01l89g-{0}-rzd6atqjts-rzd6atqjts.gz
+C:\Users\Hasheem Ditano\source\repos\Quality of Life\Quality of Life\obj\Debug\net10.0\compressed\2y163oanbw-{0}-ee0r1s7dh0-ee0r1s7dh0.gz
+C:\Users\Hasheem Ditano\source\repos\Quality of Life\Quality of Life\obj\Debug\net10.0\compressed\csjsk1s7wj-{0}-dxx9fxp4il-dxx9fxp4il.gz
+C:\Users\Hasheem Ditano\source\repos\Quality of Life\Quality of Life\obj\Debug\net10.0\compressed\2doystt2ml-{0}-jd9uben2k1-jd9uben2k1.gz
+C:\Users\Hasheem Ditano\source\repos\Quality of Life\Quality of Life\obj\Debug\net10.0\compressed\c93cpdga2m-{0}-khv3u5hwcm-khv3u5hwcm.gz
+C:\Users\Hasheem Ditano\source\repos\Quality of Life\Quality of Life\obj\Debug\net10.0\compressed\zx8wi52pzl-{0}-r4e9w2rdcm-r4e9w2rdcm.gz
+C:\Users\Hasheem Ditano\source\repos\Quality of Life\Quality of Life\obj\Debug\net10.0\compressed\vuhahk16wq-{0}-lcd1t2u6c8-lcd1t2u6c8.gz
+C:\Users\Hasheem Ditano\source\repos\Quality of Life\Quality of Life\obj\Debug\net10.0\compressed\6kk7r835ux-{0}-c2oey78nd0-c2oey78nd0.gz
+C:\Users\Hasheem Ditano\source\repos\Quality of Life\Quality of Life\obj\Debug\net10.0\compressed\njag9uaj59-{0}-tdbxkamptv-tdbxkamptv.gz
+C:\Users\Hasheem Ditano\source\repos\Quality of Life\Quality of Life\obj\Debug\net10.0\compressed\5m184z0015-{0}-j5mq2jizvt-j5mq2jizvt.gz
+C:\Users\Hasheem Ditano\source\repos\Quality of Life\Quality of Life\obj\Debug\net10.0\compressed\rvww8pm4n9-{0}-06098lyss8-06098lyss8.gz
+C:\Users\Hasheem Ditano\source\repos\Quality of Life\Quality of Life\obj\Debug\net10.0\compressed\edocnkvv9j-{0}-nvvlpmu67g-nvvlpmu67g.gz
+C:\Users\Hasheem Ditano\source\repos\Quality of Life\Quality of Life\obj\Debug\net10.0\compressed\89j3fuvmuj-{0}-s35ty4nyc5-s35ty4nyc5.gz
+C:\Users\Hasheem Ditano\source\repos\Quality of Life\Quality of Life\obj\Debug\net10.0\compressed\5s31lm71cn-{0}-pj5nd1wqec-pj5nd1wqec.gz
+C:\Users\Hasheem Ditano\source\repos\Quality of Life\Quality of Life\obj\Debug\net10.0\compressed\79p8e64c99-{0}-46ein0sx1k-46ein0sx1k.gz
+C:\Users\Hasheem Ditano\source\repos\Quality of Life\Quality of Life\obj\Debug\net10.0\compressed\ni7a2auljh-{0}-v0zj4ognzu-v0zj4ognzu.gz
+C:\Users\Hasheem Ditano\source\repos\Quality of Life\Quality of Life\obj\Debug\net10.0\compressed\koa5r6jzzm-{0}-37tfw0ft22-37tfw0ft22.gz
+C:\Users\Hasheem Ditano\source\repos\Quality of Life\Quality of Life\obj\Debug\net10.0\compressed\l1hkdjrcry-{0}-hrwsygsryq-hrwsygsryq.gz
+C:\Users\Hasheem Ditano\source\repos\Quality of Life\Quality of Life\obj\Debug\net10.0\compressed\1d2jabupi2-{0}-pk9g2wxc8p-pk9g2wxc8p.gz
+C:\Users\Hasheem Ditano\source\repos\Quality of Life\Quality of Life\obj\Debug\net10.0\compressed\yyz5l04izh-{0}-ft3s53vfgj-ft3s53vfgj.gz
+C:\Users\Hasheem Ditano\source\repos\Quality of Life\Quality of Life\obj\Debug\net10.0\compressed\t1co7v0add-{0}-6cfz1n2cew-6cfz1n2cew.gz
+C:\Users\Hasheem Ditano\source\repos\Quality of Life\Quality of Life\obj\Debug\net10.0\compressed\t7lja8teyu-{0}-6pdc2jztkx-6pdc2jztkx.gz
+C:\Users\Hasheem Ditano\source\repos\Quality of Life\Quality of Life\obj\Debug\net10.0\compressed\695cxpyiay-{0}-493y06b0oq-493y06b0oq.gz
+C:\Users\Hasheem Ditano\source\repos\Quality of Life\Quality of Life\obj\Debug\net10.0\compressed\wlldlqgvx2-{0}-iovd86k7lj-iovd86k7lj.gz
+C:\Users\Hasheem Ditano\source\repos\Quality of Life\Quality of Life\obj\Debug\net10.0\compressed\dwdlugxj3r-{0}-vr1egmr9el-vr1egmr9el.gz
+C:\Users\Hasheem Ditano\source\repos\Quality of Life\Quality of Life\obj\Debug\net10.0\compressed\ny305hs7bh-{0}-kbrnm935zg-kbrnm935zg.gz
+C:\Users\Hasheem Ditano\source\repos\Quality of Life\Quality of Life\obj\Debug\net10.0\compressed\6cs60qw69h-{0}-jj8uyg4cgr-jj8uyg4cgr.gz
+C:\Users\Hasheem Ditano\source\repos\Quality of Life\Quality of Life\obj\Debug\net10.0\compressed\kjomcczlxr-{0}-y7v9cxd14o-y7v9cxd14o.gz
+C:\Users\Hasheem Ditano\source\repos\Quality of Life\Quality of Life\obj\Debug\net10.0\compressed\04bxxyxjnr-{0}-notf2xhcfb-notf2xhcfb.gz
+C:\Users\Hasheem Ditano\source\repos\Quality of Life\Quality of Life\obj\Debug\net10.0\compressed\4ui5b6uth9-{0}-h1s4sie4z3-h1s4sie4z3.gz
+C:\Users\Hasheem Ditano\source\repos\Quality of Life\Quality of Life\obj\Debug\net10.0\compressed\fduqrhuklf-{0}-63fj8s7r0e-63fj8s7r0e.gz
+C:\Users\Hasheem Ditano\source\repos\Quality of Life\Quality of Life\obj\Debug\net10.0\compressed\dl9e5wu3xc-{0}-0j3bgjxly4-0j3bgjxly4.gz
+C:\Users\Hasheem Ditano\source\repos\Quality of Life\Quality of Life\obj\Debug\net10.0\compressed\bjc1ey355h-{0}-47otxtyo56-47otxtyo56.gz
+C:\Users\Hasheem Ditano\source\repos\Quality of Life\Quality of Life\obj\Debug\net10.0\compressed\arv5vcpqtx-{0}-4v8eqarkd7-4v8eqarkd7.gz
+C:\Users\Hasheem Ditano\source\repos\Quality of Life\Quality of Life\obj\Debug\net10.0\compressed\2mrwoh718j-{0}-356vix0kms-356vix0kms.gz
+C:\Users\Hasheem Ditano\source\repos\Quality of Life\Quality of Life\obj\Debug\net10.0\compressed\cj5pw4m7i5-{0}-83jwlth58m-83jwlth58m.gz
+C:\Users\Hasheem Ditano\source\repos\Quality of Life\Quality of Life\obj\Debug\net10.0\compressed\8a90wiyowf-{0}-mrlpezrjn3-mrlpezrjn3.gz
+C:\Users\Hasheem Ditano\source\repos\Quality of Life\Quality of Life\obj\Debug\net10.0\compressed\2eh8vezrel-{0}-lzl9nlhx6b-lzl9nlhx6b.gz
+C:\Users\Hasheem Ditano\source\repos\Quality of Life\Quality of Life\obj\Debug\net10.0\compressed\6ycm5vq55c-{0}-ag7o75518u-ag7o75518u.gz
+C:\Users\Hasheem Ditano\source\repos\Quality of Life\Quality of Life\obj\Debug\net10.0\compressed\hv87wsv0en-{0}-x0q3zqp4vz-x0q3zqp4vz.gz
+C:\Users\Hasheem Ditano\source\repos\Quality of Life\Quality of Life\obj\Debug\net10.0\compressed\cjk8ci742j-{0}-0i3buxo5is-0i3buxo5is.gz
+C:\Users\Hasheem Ditano\source\repos\Quality of Life\Quality of Life\obj\Debug\net10.0\compressed\4dtyq0vqxm-{0}-o1o13a6vjx-o1o13a6vjx.gz
+C:\Users\Hasheem Ditano\source\repos\Quality of Life\Quality of Life\obj\Debug\net10.0\compressed\mic4omsn1e-{0}-ttgo8qnofa-ttgo8qnofa.gz
+C:\Users\Hasheem Ditano\source\repos\Quality of Life\Quality of Life\obj\Debug\net10.0\compressed\wj3db2wiyg-{0}-2z0ns9nrw6-2z0ns9nrw6.gz
+C:\Users\Hasheem Ditano\source\repos\Quality of Life\Quality of Life\obj\Debug\net10.0\compressed\iziekh1urm-{0}-muycvpuwrr-muycvpuwrr.gz
+C:\Users\Hasheem Ditano\source\repos\Quality of Life\Quality of Life\obj\Debug\net10.0\compressed\jb61jl0qtp-{0}-87fc7y1x7t-87fc7y1x7t.gz
+C:\Users\Hasheem Ditano\source\repos\Quality of Life\Quality of Life\obj\Debug\net10.0\compressed\cou3vyaigv-{0}-mlv21k5csn-mlv21k5csn.gz
+C:\Users\Hasheem Ditano\source\repos\Quality of Life\Quality of Life\obj\Debug\net10.0\compressed\cpkctcs3h3-{0}-87i754ss2k-87i754ss2k.gz
+C:\Users\Hasheem Ditano\source\repos\Quality of Life\Quality of Life\obj\Debug\net10.0\compressed\2omuw1wmis-{0}-87i754ss2k-87i754ss2k.gz
+C:\Users\Hasheem Ditano\source\repos\Quality of Life\Quality of Life\obj\Debug\net10.0\staticwebassets.build.json
+C:\Users\Hasheem Ditano\source\repos\Quality of Life\Quality of Life\obj\Debug\net10.0\staticwebassets.build.json.cache
+C:\Users\Hasheem Ditano\source\repos\Quality of Life\Quality of Life\obj\Debug\net10.0\staticwebassets.development.json
+C:\Users\Hasheem Ditano\source\repos\Quality of Life\Quality of Life\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+C:\Users\Hasheem Ditano\source\repos\Quality of Life\Quality of Life\obj\Debug\net10.0\swae.build.ex.cache
+C:\Users\Hasheem Ditano\source\repos\Quality of Life\Quality of Life\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt
+C:\Users\Hasheem Ditano\source\repos\Quality of Life\Quality of Life\obj\Debug\net10.0\Quality of Life.dll
+C:\Users\Hasheem Ditano\source\repos\Quality of Life\Quality of Life\obj\Debug\net10.0\refint\Quality of Life.dll
+C:\Users\Hasheem Ditano\source\repos\Quality of Life\Quality of Life\obj\Debug\net10.0\Quality of Life.pdb
+C:\Users\Hasheem Ditano\source\repos\Quality of Life\Quality of Life\obj\Debug\net10.0\Quality of Life.genruntimeconfig.cache
+C:\Users\Hasheem Ditano\source\repos\Quality of Life\Quality of Life\obj\Debug\net10.0\ref\Quality of Life.dll
+C:\Users\Hasheem Ditano\source\repos\Quality of Life\Quality of Life\obj\Debug\net10.0\Quality of Life.sourcelink.json
+C:\Users\Hasheem Ditano\source\repos\Quality of Life\Quality of Life\obj\Debug\net10.0\compressed\p64z08grho-{0}-ceiotu2m56-ceiotu2m56.gz
